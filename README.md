@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mertgurhan
+- 👀 I’m interested in codding and games
+- 🌱 I’m currently learning c#,python,c
