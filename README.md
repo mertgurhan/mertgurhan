@@ -64,6 +64,6 @@ The main objective of this project is to allow users to input two different DNA 
 This project aims to predict whether a speaker is male or female by analyzing acoustic features extracted from a speech recording.
 Various characteristics of the audio signal—such as pitch, frequency-based features, and spectral properties—are extracted and used as input to a machine learning classification model.
 By learning the patterns that differ between male and female voices, the trained model can accurately classify the speaker’s gender from a given speech sample.
----
+
 ### ColabFlora Mobile App
 ColabFlora is a social productivity and habit-tracking application designed to make focus sessions more engaging. By combining the Pomodoro technique with gamification, it transforms task management into a rewarding experience. Users grow virtual flowers and earn badges as they complete tasks, turning productivity into a collaborative journey.
